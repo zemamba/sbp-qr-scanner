@@ -4,8 +4,10 @@ Original author: zemamba
 
 This project must remain free software. You may use, copy, modify, and redistribute it under the GNU General Public License version 3 or later.
 
-If you publish a modified version, keep a visible attribution to the original project and include a link to the original source repository when one is available. At minimum, keep this NOTICE file and the copyright/license notices.
+Original source repository: https://github.com/zemamba/sbp-qr-scanner
+
+If you publish a modified version, keep a visible attribution to the original project and include a link to the original source repository. At minimum, keep this NOTICE file and the copyright/license notices.
 
 Suggested attribution text:
 
-Based on SBP QR Scanner by zemamba, licensed under GPL-3.0-or-later.
+Based on SBP QR Scanner by zemamba (https://github.com/zemamba/sbp-qr-scanner), licensed under GPL-3.0-or-later.

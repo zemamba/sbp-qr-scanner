@@ -4,6 +4,10 @@ A lightweight browser-based QR scanner for Russian Faster Payments System (SBP) 
 
 The app scans a QR code with the device camera, recognizes SBP payment links from `qr.nspk.ru`, extracts useful values, and hands the payment link to a supported banking app so the user can complete and confirm the payment there.
 
+Live demo: <https://zemamba.github.io/sbp-qr-scanner/>
+
+Source: <https://github.com/zemamba/sbp-qr-scanner>
+
 ## Features
 
 - Scans QR codes directly in the browser.
